@@ -1,0 +1,5 @@
+{
+  "name": "CrediFlow - Credit Card Management",
+  "description": "A modern, minimal credit card management system with dashboard, card details, transaction history, and spending analytics.",
+  "requestFramePermissions": []
+}
